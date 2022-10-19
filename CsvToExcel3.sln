@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvToExcel", "CsvToExcel3\CsvToExcel.csproj", "{A2F82FB3-7EF6-4DA5-B56C-924A7551EC2A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{7EBE7661-EC5A-4B77-8CF4-C1E11CBB9DAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2F82FB3-7EF6-4DA5-B56C-924A7551EC2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F82FB3-7EF6-4DA5-B56C-924A7551EC2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F82FB3-7EF6-4DA5-B56C-924A7551EC2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F82FB3-7EF6-4DA5-B56C-924A7551EC2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EBE7661-EC5A-4B77-8CF4-C1E11CBB9DAA}.Debug|Any CPU.ActiveCfg = Debug
+		{7EBE7661-EC5A-4B77-8CF4-C1E11CBB9DAA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3EA4B21-4FF1-40F9-B0A3-8D5B3CF304F8}
+	EndGlobalSection
+EndGlobal

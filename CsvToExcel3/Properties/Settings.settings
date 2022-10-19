@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CsvToExcel3.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="openCsvCache" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"c:\\users\\"+Environment.UserName+" \\Downloads"</Value>
+    </Setting>
+    <Setting Name="destinationFolderCache" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
